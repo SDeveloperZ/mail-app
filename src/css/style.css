@@ -31,6 +31,7 @@ p {
 }
 
 .container {
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -108,4 +109,12 @@ footer p {
 
 .redes img:nth-child(3) {
   width: 51px;
+}
+
+.button {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: inherit;
+  cursor: pointer;
 }

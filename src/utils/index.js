@@ -1,7 +1,7 @@
 export const dataStatus = [
   {
     id: 10,
-    title: 'Justificativo Aprobado',
+    title: 'Tenemos noticias sobre tu solicitud',
     user: 'Jorge',
     startDate: '2024-02-25',
     endDate: '2024-03-21',
@@ -12,7 +12,7 @@ export const dataStatus = [
 
   {
     id: 12,
-    title: 'Justificativo Rechazado',
+    title: 'Tenemos noticias sobre tu solicitud',
     user: 'Sergio',
     startDate: '2024-01-01',
     endDate: '2024-02-25',
@@ -23,7 +23,7 @@ export const dataStatus = [
 
   {
     id: 6,
-    title: 'Justificativo en Revision',
+    title: 'Tu solicitud fue creada correctamente',
     user: 'Daniel',
     startDate: '2024-02-11',
     endDate: '2024-03-02',
@@ -33,13 +33,14 @@ export const dataStatus = [
   },
   {
     id: 4,
-    title: 'Justificativo Pendiente',
+    title: 'Cristian Contana ha cargado una solicitud',
     user: 'Jose',
     startDate: '2024-01-10',
     endDate: '2024-02-22',
     notes: 'Solicito tomarme 4 dias por motivo de mi matrimonio.',
     status: 'https://publicemailimages.s3.amazonaws.com/emailalerts/pendiente-revision.svg',
     info: 'Matrimonio',
+    button: 'https://publicemailimages.s3.amazonaws.com/emailalerts/ver-novedad.svg',
   },
 ];
 

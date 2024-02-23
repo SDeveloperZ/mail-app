@@ -51,7 +51,9 @@ function Novedad() {
               {dataStatus.map((data) => { if(data.id === statusId){return data.notes; }})}
             </p>
           </div>
+
         </div>
+        <div className="button">{dataStatus.map((data) => { if(data.id === statusId){return <img src={data.button} />; }})}</div>
     </div>
   );
 }
