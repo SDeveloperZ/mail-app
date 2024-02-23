@@ -9,7 +9,6 @@ function Novedad() {
   const handleChangeStatus = (newStatusId) => {
     setStatusId(newStatusId);
   };
-  // const statusIcon = getStatusIcon(statusId);
 
   return (
     <div>
