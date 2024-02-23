@@ -1,2 +1,2 @@
-# maio-app
+# mail.app
 mail-app-test
