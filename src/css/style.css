@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Fira Sans", Arial, sans-serif;
+}
+
+.logo {
+  display: block;
+  margin: 50px auto;
+  max-width: 500px;
+  width: 100%;
+}
+
+h1 {
+  font-weight: 700;
+  font-style: normal;
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  margin-top: 5px;
+}
+
+p {
+  margin: 0px;
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.content {
+  display: flex;
+  gap: 5px;
+}
+
+.emoticon {
+  align-items: center;
+  width: 35px;
+}
+.emoticon2 {
+  height: 35px;
+}
+
+.novedad {
+  display: flex;
+  margin-left: 160px;
+  align-self: flex-start;
+  margin-bottom: 40px;
+}
+
+.contenido {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.estado {
+  display: flex;
+  align-items: center;
+  height: 36px;
+  gap: 5px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  max-width: 600px;
+}
+
+.line {
+  width: 100%;
+  border: 2px solid #4a90ff;
+  margin-bottom: 15px;
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+
+.redes {
+  display: flex;
+  align-items: center;
+}
+
+.redes img {
+  padding: 5px;
+  margin: 5px;
+}
+
+.redes img:nth-child(1) {
+  width: 27px;
+}
+
+.redes img:nth-child(2) {
+  width: 47px;
+}
+
+.redes img:nth-child(3) {
+  width: 51px;
+}
