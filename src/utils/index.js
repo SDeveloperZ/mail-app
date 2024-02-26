@@ -1,6 +1,6 @@
 export const dataStatus = [
   {
-    id: 10,
+    id: [10, 8],
     title: 'Tenemos noticias sobre tu solicitud',
     user: 'Jorge',
     startDate: '2024-02-25',
@@ -11,7 +11,7 @@ export const dataStatus = [
   },
 
   {
-    id: 12,
+    id: [9, 12],
     title: 'Tenemos noticias sobre tu solicitud',
     user: 'Sergio',
     startDate: '2024-01-01',
@@ -22,7 +22,7 @@ export const dataStatus = [
   },
 
   {
-    id: 6,
+    id: [6],
     title: 'Tu solicitud fue creada correctamente',
     user: 'Daniel',
     startDate: '2024-02-11',
@@ -32,7 +32,7 @@ export const dataStatus = [
     info: 'Matrimonio',
   },
   {
-    id: 4,
+    id: [4, 7, 5],
     title: 'Cristian Contana ha cargado una solicitud',
     user: 'Jose',
     startDate: '2024-01-10',

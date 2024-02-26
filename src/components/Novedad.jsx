@@ -8,7 +8,7 @@ const Novedad = () => {
     setStatusId(newStatusId);
   };
 
-  const currentStatus = dataStatus.find((data) => data.id === statusId);
+  const currentStatus = dataStatus.find((data) => data.id.includes(statusId));
 
   return (
     <div>
