@@ -12,7 +12,7 @@ const Novedad = () => {
 
   return (
     <div>
-      <div>
+      <div style={{ textAlign: 'center' }}>
         <button onClick={() => handleChangeStatus(4)}>PENDIENTE</button>
         <button onClick={() => handleChangeStatus(10)}>APROBADA</button>
         <button onClick={() => handleChangeStatus(12)}>RECHAZADA</button>
