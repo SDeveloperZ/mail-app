@@ -8,7 +8,6 @@ body {
   display: block;
   margin: 50px auto;
   max-width: 500px;
-  width: 100%;
 }
 
 h1 {
@@ -53,7 +52,7 @@ p {
 
 .novedad {
   display: flex;
-  margin-left: 160px;
+  margin-left: 140px;
   align-self: flex-start;
   margin-bottom: 40px;
 }

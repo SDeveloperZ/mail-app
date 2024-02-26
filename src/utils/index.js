@@ -44,8 +44,6 @@ export const dataStatus = [
   },
 ];
 
-
-
 // export enum StatusRequest {
 //   SOLICITUD_CREADA = 1,
 //   SOLICITUD_APROBADA = 2,
