@@ -2,7 +2,7 @@ export const dataStatus = [
   {
     id: [10, 8],
     title: 'Tenemos noticias sobre tu solicitud',
-    user: 'Jorge',
+    user: 'username',
     startDate: '2024-02-25',
     endDate: '2024-03-21',
     notes: 'Solicito tomarme 4 dias por motivo de mi matrimonio.',
@@ -13,7 +13,7 @@ export const dataStatus = [
   {
     id: [9, 12],
     title: 'Tenemos noticias sobre tu solicitud',
-    user: 'Sergio',
+    user: 'username',
     startDate: '2024-01-01',
     endDate: '2024-02-25',
     notes: 'Solicito tomarme 4 dias por motivo de mi matrimonio.',
@@ -24,7 +24,7 @@ export const dataStatus = [
   {
     id: [6],
     title: 'Tu solicitud fue creada correctamente',
-    user: 'Daniel',
+    user: 'username',
     startDate: '2024-02-11',
     endDate: '2024-03-02',
     notes: 'Solicito tomarme 4 dias por motivo de mi matrimonio.',
@@ -34,7 +34,7 @@ export const dataStatus = [
   {
     id: [4, 7, 5],
     title: 'Cristian Contana ha cargado una solicitud',
-    user: 'Jose',
+    user: 'username',
     startDate: '2024-01-10',
     endDate: '2024-02-22',
     notes: 'Solicito tomarme 4 dias por motivo de mi matrimonio.',

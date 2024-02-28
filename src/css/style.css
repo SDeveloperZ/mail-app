@@ -87,13 +87,19 @@ footer p {
   margin-bottom: 10px;
 }
 
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .redes a {
   padding: 5px;
   margin: 5px;
 }
 
 .redes a:nth-child(1) img {
-  width: 27px;
+  width: 47px;
 }
 
 .redes a:nth-child(2) img {

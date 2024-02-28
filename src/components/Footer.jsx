@@ -8,8 +8,8 @@ function Footer() {
       <p>Direccion - CP - Ciudad - País</p>
       <div>
         <div className="redes">
-          <a href="https://www.facebook.com/">
-            <img src="https://publicemailimages.s3.amazonaws.com/emailalerts/face.svg" alt="facebook-icon" />
+          <a href="https://www.linkedin.com/">
+            <img src="https://publicemailimages.s3.amazonaws.com/emailalerts/linkedin.svg" alt="linkedin-icon" />
           </a>
           <a href="https://www.instagram.com/">
             <img src="https://publicemailimages.s3.amazonaws.com/emailalerts/ig.svg" alt="instagram-icon" />
